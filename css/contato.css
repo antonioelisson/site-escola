@@ -1,0 +1,7 @@
+.footer__h3, .footer__h3-descricao, .contato__secao{
+  display: inline;
+}
+.footer__h3-descricao{
+  margin-left: 2px;
+
+}
